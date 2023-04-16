@@ -1,0 +1,36 @@
+{
+  "usa": {
+    "name": "United States",
+    "population": "331002651",
+    "capital": "Washington D.C.",
+    "languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "UK": {
+    "name": "United Kingdom",
+    "population": "Peasants",
+    "capital": "London?",
+    "languages": [
+      "English",
+      "Cockney",
+      "Queen's English"
+    ]
+  },
+  "canada": {
+    "name": "Canada",
+    "population": "plenty",
+    "capital": "Ottawa",
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  "brazil": {
+    "name": "Brazil",
+    "population": "brazilians",
+    "capital": "Brasilia",
+    "languages": ["Portuguese"]
+  }
+}
